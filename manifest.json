@@ -14,9 +14,9 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "/?m=1",
+    "start_url": "https://www.nizwar.id/?m=1",
     "background_color": "#d64136",
     "display": "standalone",
-    "scope": "/",
+    "scope": "https://www.nizwar.id/",
     "theme_color": "#d64136"
   }
