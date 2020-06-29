@@ -1,2 +1,2 @@
-# pwa_nizwar_id
-Buat nampung manifest.json aja
+# PWA Nizwar ID
+Buat nampung manifest.json biar bisa diterapin di [Nizwar.id](https://www.nizwar.id)
